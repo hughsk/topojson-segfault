@@ -1,0 +1,21 @@
+{
+  "name": "topojson-segault",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "topojson"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/topojson-segault.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/topojson-segault/issues"
+  },
+  "homepage": "https://github.com/hughsk/topojson-segault",
+  "dependencies": {
+    "topojson": "^1.6.18"
+  }
+}
