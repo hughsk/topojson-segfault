@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "topojson"
+    "test": "make clean countries.json"
   },
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
   "license": "ISC",
